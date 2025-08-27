@@ -640,7 +640,7 @@ button:hover {
 /* Aumentar o ícone em telas menores (mobile e tablet) */
 @media (max-width: 1024px) {
   #menu-toggle {
-    font-size: 50px; /* aumenta o ícone */
+    font-size: 100px; /* aumenta o ícone */
   }
 }
 
