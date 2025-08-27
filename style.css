@@ -632,6 +632,7 @@ button:hover {
       text-shadow: 2px 2px 10px rgba(0,0,0,0.7); /* sombra para destacar */
     }
     div img {
+  margin-top: 40px;   /* afasta acima da imagem */
   max-width: 1500px;  /* largura máxima no desktop */
   width: 100%;       /* ocupa 100% no mobile */
   height: auto;
