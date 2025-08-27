@@ -637,6 +637,12 @@ button:hover {
   width: 100%;       /* ocupa 100% no mobile */
   height: auto;
 }
+/* Aumentar o ícone em telas menores (mobile e tablet) */
+@media (max-width: 1024px) {
+  #menu-toggle {
+    font-size: 36px; /* aumenta o ícone */
+  }
+}
 
 
 
